@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdqbtUNeeb14+vzSnpqAkXkr4xOKe8jGwTaCviJ7/QmaYPC/7/R5bHhjFMGAuooYrihIrlNUf4WdNnMbCG2ePg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\158227\\Downloads\\sendTelemetry\\sendTelemetry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\158227\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

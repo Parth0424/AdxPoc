@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temetryapi", "temetryapi.csproj", "{246EE5EF-55EA-4D03-8C0B-BD629774A142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246EE5EF-55EA-4D03-8C0B-BD629774A142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246EE5EF-55EA-4D03-8C0B-BD629774A142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246EE5EF-55EA-4D03-8C0B-BD629774A142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246EE5EF-55EA-4D03-8C0B-BD629774A142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7301DF21-54DA-4CEB-85BC-2E16C2B2666B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>e95dd2a9-5d7c-4fcd-b955-537918bde045</aId>
+  <appId>e2ba6925-8924-4e93-91e8-e15b2a3e543c</appId>
+  <tenantId>f49c54e6-17a9-4c0b-8c5c-53fa9cdcc085</tenantId>
+  <modelId>54e9d262-8947-47d7-bd68-6f4ac126376c</modelId>
+  <data>
+    <Temperature>23.008211766373464</Temperature>
+    <Humidity>57.900324919214626</Humidity>
+  </data>
+  <ts>1693905170</ts>
+  <ihts>2023-09-05T09:12:50.033446Z</ihts>
+  <sats>2023-09-05T09:12:50.0334464Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>5f9cf2dd-8d2e-41dd-8ebf-8ba532e93875</aId>
+  <appId>6c6ab97c-e18b-481c-945b-29898cc2bbaa</appId>
+  <tenantId>6a6dba37-7ce7-4c53-b40c-079cd9a8e819</tenantId>
+  <modelId>da786ff2-8264-4ab8-a613-0a6766498429</modelId>
+  <data>
+    <Temperature>23.190570142208863</Temperature>
+    <Humidity>68.57928743054126</Humidity>
+  </data>
+  <ts>1693905171</ts>
+  <ihts>2023-09-05T09:12:51.3634756Z</ihts>
+  <sats>2023-09-05T09:12:51.3634757Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>e964e4c9-2424-4bbb-a73b-516ce35776df</aId>
+  <appId>11de5a2b-4fd8-4c62-8c50-3813e0fe1152</appId>
+  <tenantId>c75ce677-9208-4c8d-aec3-8aa01723327a</tenantId>
+  <modelId>6d70b76b-7e9f-44e7-9614-a2bf4fa0063c</modelId>
+  <data>
+    <Temperature>27.53167756019704</Temperature>
+    <Humidity>69.50551599241119</Humidity>
+  </data>
+  <ts>1693905172</ts>
+  <ihts>2023-09-05T09:12:52.3817425Z</ihts>
+  <sats>2023-09-05T09:12:52.3817426Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>d00e8c01-24ae-418b-bd09-06631fbf24ad</aId>
+  <appId>d836e132-2b63-4523-8377-44037d31dfbe</appId>
+  <tenantId>86472f6a-7141-4978-b51f-1f05ba9cd41b</tenantId>
+  <modelId>9921545b-6723-4a7f-8223-945f303c31ea</modelId>
+  <data>
+    <Temperature>18.938967012306193</Temperature>
+    <Humidity>41.423578565671846</Humidity>
+  </data>
+  <ts>1693905173</ts>
+  <ihts>2023-09-05T09:12:53.3892347Z</ihts>
+  <sats>2023-09-05T09:12:53.3892349Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>3f23c578-293b-4145-8fa3-f5e47521c9cf</aId>
+  <appId>ca328b18-b1e8-4832-8ff2-ae873d0bca83</appId>
+  <tenantId>38322a6f-065b-4706-a478-edd1d7206ce9</tenantId>
+  <modelId>af69b045-bf0a-41b4-9912-63f96df1a378</modelId>
+  <data>
+    <Temperature>16.746932476175452</Temperature>
+    <Humidity>68.86159757099189</Humidity>
+  </data>
+  <ts>1693905174</ts>
+  <ihts>2023-09-05T09:12:54.392194Z</ihts>
+  <sats>2023-09-05T09:12:54.3921942Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>920f71ea-7d03-43c0-901c-57d6ee78efed</aId>
+  <appId>05db904e-5d14-4883-a303-6ce62307a2c8</appId>
+  <tenantId>3a964864-f5dc-48bd-9f4f-30e1ad299a88</tenantId>
+  <modelId>236e84cc-cae5-45e3-848a-d593ce814489</modelId>
+  <data>
+    <Temperature>21.552069939930025</Temperature>
+    <Humidity>65.8379986117771</Humidity>
+  </data>
+  <ts>1693905175</ts>
+  <ihts>2023-09-05T09:12:55.3978649Z</ihts>
+  <sats>2023-09-05T09:12:55.397865Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>7ac09cf8-0297-4d6b-9cad-aff4f24a4b15</aId>
+  <appId>7ae5dc48-434e-4d83-9a98-0fee12887640</appId>
+  <tenantId>de782dec-a3c6-4c21-9705-ebcbce3c36ec</tenantId>
+  <modelId>a59a86b9-1794-407a-89d0-eff52dcc61f4</modelId>
+  <data>
+    <Temperature>25.413987830008374</Temperature>
+    <Humidity>45.53101449065423</Humidity>
+  </data>
+  <ts>1693905176</ts>
+  <ihts>2023-09-05T09:12:56.4048967Z</ihts>
+  <sats>2023-09-05T09:12:56.4048968Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>851c86eb-926c-448e-af75-01079d05774b</aId>
+  <appId>040b71ec-02bd-46ed-a6e7-6c88af5ca366</appId>
+  <tenantId>74b2ed50-9ae6-4afb-a291-26bf4817f73c</tenantId>
+  <modelId>37d92dcd-86a0-45cb-9894-57386b6219c4</modelId>
+  <data>
+    <Temperature>28.294800209484436</Temperature>
+    <Humidity>48.22332403539835</Humidity>
+  </data>
+  <ts>1693905177</ts>
+  <ihts>2023-09-05T09:12:57.4070067Z</ihts>
+  <sats>2023-09-05T09:12:57.4070069Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>cd702cc8-8b42-42c3-a5b6-78bc838e11ba</aId>
+  <appId>3f3a41f9-6b02-416d-8093-61436f8998cb</appId>
+  <tenantId>0ed91cfe-64f6-40c6-a6f8-df1e3af6d903</tenantId>
+  <modelId>6bd5edb8-dc1c-4f39-914b-8d6705191ba5</modelId>
+  <data>
+    <Temperature>25.177776753053898</Temperature>
+    <Humidity>40.459116874476486</Humidity>
+  </data>
+  <ts>1693905178</ts>
+  <ihts>2023-09-05T09:12:58.4209903Z</ihts>
+  <sats>2023-09-05T09:12:58.4209906Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>2f06a763-b204-4c4f-85d6-a0aa0722005f</aId>
+  <appId>92c78d43-2041-4318-9936-b64520ecca04</appId>
+  <tenantId>52e61d6b-3e93-4d57-aca8-450ddeaccf33</tenantId>
+  <modelId>ca798f7f-6392-41e1-b533-212ba7e204f5</modelId>
+  <data>
+    <Temperature>23.087821874342776</Temperature>
+    <Humidity>68.12477701256275</Humidity>
+  </data>
+  <ts>1693905179</ts>
+  <ihts>2023-09-05T09:12:59.4244719Z</ihts>
+  <sats>2023-09-05T09:12:59.424472Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>827b8ee4-3904-48e4-b95b-b79d19c1617e</aId>
+  <appId>5c23af4a-f06d-431f-a6f2-0ae660bf06ea</appId>
+  <tenantId>13119103-1b8c-40fd-9b6e-84b4919d6432</tenantId>
+  <modelId>cc4acdff-0eb0-4341-8316-a02e4323b8ef</modelId>
+  <data>
+    <Temperature>25.90013828403323</Temperature>
+    <Humidity>44.044232603183126</Humidity>
+  </data>
+  <ts>1693905180</ts>
+  <ihts>2023-09-05T09:13:00.4264045Z</ihts>
+  <sats>2023-09-05T09:13:00.4264847Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>ce540e2c-4d56-4984-b68d-1d91dc8211e7</aId>
+  <appId>db6992bc-2988-494f-8aec-7b74efba7167</appId>
+  <tenantId>937a9572-909b-4d29-a417-2479171433d3</tenantId>
+  <modelId>aedc2cb3-83e2-4032-84e3-803019e1f144</modelId>
+  <data>
+    <Temperature>22.201432491280805</Temperature>
+    <Humidity>62.03245757707975</Humidity>
+  </data>
+  <ts>1693905181</ts>
+  <ihts>2023-09-05T09:13:01.4419449Z</ihts>
+  <sats>2023-09-05T09:13:01.4419451Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>7c9a9777-42dc-41ec-b583-978b04ef7358</aId>
+  <appId>aadf45a6-b130-4337-8090-8b0725b3bdec</appId>
+  <tenantId>01876251-550a-480e-a904-d3ec6507acae</tenantId>
+  <modelId>27b71394-fb81-411b-afc7-ea09ad9e9650</modelId>
+  <data>
+    <Temperature>17.060221348451552</Temperature>
+    <Humidity>51.640121634882</Humidity>
+  </data>
+  <ts>1693905182</ts>
+  <ihts>2023-09-05T09:13:02.445277Z</ihts>
+  <sats>2023-09-05T09:13:02.4452772Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>b9cf3efb-6aef-43ff-adc1-f1f9d88b790f</aId>
+  <appId>3fa69182-b192-4916-b5da-05e6cfa64f7e</appId>
+  <tenantId>7dfd3f3f-8c24-4367-999b-70367aca04e8</tenantId>
+  <modelId>a0063ed2-0dd4-4148-8937-b41a0816913b</modelId>
+  <data>
+    <Temperature>24.20011081928392</Temperature>
+    <Humidity>64.97433309209269</Humidity>
+  </data>
+  <ts>1693905183</ts>
+  <ihts>2023-09-05T09:13:03.4521869Z</ihts>
+  <sats>2023-09-05T09:13:03.452187Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>d45e003c-484c-4bae-81a6-5cc8ec5b30c3</aId>
+  <appId>35a264ed-3dff-4766-89b9-ddbae7731b35</appId>
+  <tenantId>d4baabf9-c55d-4d07-bdb3-c1e5b20de316</tenantId>
+  <modelId>8586929e-8c4a-4d03-94da-5717ee97645a</modelId>
+  <data>
+    <Temperature>17.950008734106092</Temperature>
+    <Humidity>55.02072525444474</Humidity>
+  </data>
+  <ts>1693905184</ts>
+  <ihts>2023-09-05T09:13:04.4549045Z</ihts>
+  <sats>2023-09-05T09:13:04.4549046Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>beaf1ced-2020-4316-b718-00e0cc1e3ab8</aId>
+  <appId>35d17884-c4cf-441b-9cf4-508757ad31a5</appId>
+  <tenantId>a81d01e4-be0f-46e9-a267-a480d7a329b0</tenantId>
+  <modelId>45152c2a-3938-4fc7-af20-f2fde1473057</modelId>
+  <data>
+    <Temperature>23.935956593573074</Temperature>
+    <Humidity>43.36944407940351</Humidity>
+  </data>
+  <ts>1693905185</ts>
+  <ihts>2023-09-05T09:13:05.4594971Z</ihts>
+  <sats>2023-09-05T09:13:05.4594972Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>1a522951-fb63-4b9f-97ef-41a014ef21a2</aId>
+  <appId>edbb0e21-47aa-4672-ae84-2ed13e05a3eb</appId>
+  <tenantId>488f2759-9a73-469a-8071-1f7690157e81</tenantId>
+  <modelId>a41f644b-2d60-4274-ad86-2bcf3d055c30</modelId>
+  <data>
+    <Temperature>20.80933161117571</Temperature>
+    <Humidity>58.441782285665056</Humidity>
+  </data>
+  <ts>1693905186</ts>
+  <ihts>2023-09-05T09:13:06.4649318Z</ihts>
+  <sats>2023-09-05T09:13:06.464932Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>5a0959f7-bd71-4235-98e8-65803ea15fc5</aId>
+  <appId>79496d1f-749e-4b0a-95c9-3bce47baccc8</appId>
+  <tenantId>c06a7ed9-a4b9-475b-b6a7-3e31cf0ed837</tenantId>
+  <modelId>bd688d61-2463-4bb1-a002-17b2c38d9118</modelId>
+  <data>
+    <Temperature>22.78745258822453</Temperature>
+    <Humidity>68.27171976597594</Humidity>
+  </data>
+  <ts>1693905187</ts>
+  <ihts>2023-09-05T09:13:07.4708488Z</ihts>
+  <sats>2023-09-05T09:13:07.470849Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>b92f9905-e6a2-47c9-8527-f9c5f9ce6452</aId>
+  <appId>b3d43364-be9f-4a4e-a491-bab8a4b9eeaa</appId>
+  <tenantId>af86e572-3e6b-4c77-bdb5-a7da59130ef6</tenantId>
+  <modelId>a22d515b-099e-42b5-9a35-8109cbe496bf</modelId>
+  <data>
+    <Temperature>24.51244828967026</Temperature>
+    <Humidity>68.78469908553394</Humidity>
+  </data>
+  <ts>1693905188</ts>
+  <ihts>2023-09-05T09:13:08.4740006Z</ihts>
+  <sats>2023-09-05T09:13:08.4740009Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>4962689d-deff-41e8-848e-fc99b8942be2</aId>
+  <appId>c6debcec-4277-42a5-9699-148d5edf8056</appId>
+  <tenantId>30ded578-7ace-4215-a42b-655a50431dfd</tenantId>
+  <modelId>8008eab9-6a9b-4e3d-b95f-8d79824d4ac9</modelId>
+  <data>
+    <Temperature>24.73585355781757</Temperature>
+    <Humidity>60.46992208830543</Humidity>
+  </data>
+  <ts>1693905189</ts>
+  <ihts>2023-09-05T09:13:09.4768736Z</ihts>
+  <sats>2023-09-05T09:13:09.4768736Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>11f88ad3-11dd-4960-9856-1d8dba444b86</aId>
+  <appId>d34c7d06-98e3-47e0-b7ec-1b771e36e712</appId>
+  <tenantId>58b7fb9d-7404-4fa8-aa5d-80fe89fdd879</tenantId>
+  <modelId>700c305f-f660-457a-95a8-239c12c548e4</modelId>
+  <data>
+    <Temperature>26.595096342077056</Temperature>
+    <Humidity>63.413328697631755</Humidity>
+  </data>
+  <ts>1693905190</ts>
+  <ihts>2023-09-05T09:13:10.4857946Z</ihts>
+  <sats>2023-09-05T09:13:10.4857947Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>26f3b19c-657c-49e9-85b1-1d98953bac28</aId>
+  <appId>7fa7a36c-fa73-4f93-9d54-47fe4a5b0af2</appId>
+  <tenantId>e633be7c-68a1-4bb1-ad49-7af81d1f7719</tenantId>
+  <modelId>7f4c2203-91a3-4104-8357-c2e6e55ffea9</modelId>
+  <data>
+    <Temperature>19.283370375299533</Temperature>
+    <Humidity>57.70699242488807</Humidity>
+  </data>
+  <ts>1693905191</ts>
+  <ihts>2023-09-05T09:13:11.4961527Z</ihts>
+  <sats>2023-09-05T09:13:11.4961529Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>43ecce8c-fc0e-4f7a-92f6-6e9f36dc5234</aId>
+  <appId>397ba49f-7e95-4b41-b365-6a36b3d23b2b</appId>
+  <tenantId>f6f2293d-c8dd-4d00-8282-2849933a2081</tenantId>
+  <modelId>f8cc2eb2-0e5b-4a75-a0a2-21f639edbbb9</modelId>
+  <data>
+    <Temperature>27.31842582222001</Temperature>
+    <Humidity>64.37367480451879</Humidity>
+  </data>
+  <ts>1693905192</ts>
+  <ihts>2023-09-05T09:13:12.5059461Z</ihts>
+  <sats>2023-09-05T09:13:12.5059464Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>cfb32516-39e2-47d2-aeae-dbec1b31ddfd</aId>
+  <appId>bbeb2ca1-42c3-402f-b525-67ec787086c4</appId>
+  <tenantId>8c207e1e-4111-41a1-bbf7-62e8ed077f9f</tenantId>
+  <modelId>30ea7187-d4c6-43db-ae96-62c5a16284e8</modelId>
+  <data>
+    <Temperature>29.376262379519765</Temperature>
+    <Humidity>61.50138408946869</Humidity>
+  </data>
+  <ts>1693905193</ts>
+  <ihts>2023-09-05T09:13:13.5158545Z</ihts>
+  <sats>2023-09-05T09:13:13.5158547Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>9c19c5d0-a86e-422f-ac3b-20f00b77216d</aId>
+  <appId>b8e172cb-e4e5-4c53-84d0-07d5b323d80f</appId>
+  <tenantId>6ed40556-9286-4803-a271-73eb3939f81c</tenantId>
+  <modelId>93b9e171-d9bd-4829-a89f-781d1b928987</modelId>
+  <data>
+    <Temperature>25.62642078875863</Temperature>
+    <Humidity>60.93146170998526</Humidity>
+  </data>
+  <ts>1693905194</ts>
+  <ihts>2023-09-05T09:13:14.5180606Z</ihts>
+  <sats>2023-09-05T09:13:14.5180607Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>191e69b6-4c4d-4bc8-9e83-05f4b97cb3c5</aId>
+  <appId>907b7198-6084-4268-8f70-5aa6ea285490</appId>
+  <tenantId>9a5e2a21-f59e-480a-838d-384458035772</tenantId>
+  <modelId>c5915638-da9e-45b0-8495-1a4c372aa147</modelId>
+  <data>
+    <Temperature>26.320392862577172</Temperature>
+    <Humidity>62.69370802803603</Humidity>
+  </data>
+  <ts>1693905195</ts>
+  <ihts>2023-09-05T09:13:15.5205621Z</ihts>
+  <sats>2023-09-05T09:13:15.5205625Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>907d7efa-ae01-486f-a9d6-bfaf5015f939</aId>
+  <appId>d8554b22-2257-40d3-958c-2b50e040c74b</appId>
+  <tenantId>236a39d0-a566-409f-ab68-00e558b023f9</tenantId>
+  <modelId>f86f90ec-4b93-48d4-9c7e-f2e9f6e5897e</modelId>
+  <data>
+    <Temperature>17.49459711485291</Temperature>
+    <Humidity>40.6509282349846</Humidity>
+  </data>
+  <ts>1693905196</ts>
+  <ihts>2023-09-05T09:13:16.5245033Z</ihts>
+  <sats>2023-09-05T09:13:16.5245035Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>78b9ac22-e7de-44f9-a1e2-3e2edc88dd30</aId>
+  <appId>412bd7e0-af39-4ad0-b0df-b971c53f50e5</appId>
+  <tenantId>26b7e54a-b962-4e4a-9fc7-8fc2cbe75c55</tenantId>
+  <modelId>d551e45b-4387-4c36-a559-a6f43e6d5800</modelId>
+  <data>
+    <Temperature>16.29189028231981</Temperature>
+    <Humidity>43.7594890286026</Humidity>
+  </data>
+  <ts>1693905197</ts>
+  <ihts>2023-09-05T09:13:17.5280407Z</ihts>
+  <sats>2023-09-05T09:13:17.5280408Z</sats>
+</TelemetryData><?xml version="1.0" encoding="utf-16"?>
+<TelemetryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <aId>0918fe35-a3e7-46ba-b793-a76ddc282e20</aId>
+  <appId>586d5785-a73e-4afe-a93f-956099a20d4b</appId>
+  <tenantId>12dfb719-e707-4c19-a12b-6e6d26fdf4f6</tenantId>
+  <modelId>2d764c71-fa9b-4765-bf99-73b8214d83a3</modelId>
+  <data>
+    <Temperature>27.642379017845904</Temperature>
+    <Humidity>56.13598080637678</Humidity>
+  </data>
+  <ts>1693905198</ts>
+  <ihts>2023-09-05T09:13:18.5401489Z</ihts>
+  <sats>2023-09-05T09:13:18.5401491Z</sats>
+</TelemetryData>
